@@ -1,3 +1,3 @@
-# delivery-food_web
+# food-delivery-web
 GitHub pages:
-https://igorkondratyuk1.github.io/delivery-food_web/
+https://igorkondratyuk1.github.io/food-delivery-web/
